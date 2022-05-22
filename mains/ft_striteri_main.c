@@ -1,17 +1,15 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   .ft_striteri_main.c                                :+:      :+:    :+:   */
+/*   ft_striteri_main.c                                 :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/10 21:26:15 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/10 22:41:11 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:07:38 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <stdio.h>
-#include <stddef.h>
-#include <stdlib.h>
+#include "libft.h"
 
 char	*ft_striteri(char *s, void (*f)(unsigned int, char*));
 

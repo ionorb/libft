@@ -1,17 +1,15 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   .ft_split_main.c                                   :+:      :+:    :+:   */
+/*   ft_split_main.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/10 16:51:36 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/10 18:06:01 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:07:31 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <stdio.h>
-#include <stddef.h>
-#include <stdlib.h>
+#include "libft.h"
 
 char	**ft_split(char const *s, char c);
 

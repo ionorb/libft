@@ -1,17 +1,15 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   .ft_strlcat_main.c                                 :+:      :+:    :+:   */
+/*   ft_strlcat_main.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/11 15:16:25 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/11 17:21:55 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:07:47 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <stdio.h>
-#include <stddef.h>
-#include <stdlib.h>
+#include "libft.h"
 
 size_t	ft_strlcat(char *dst, const char *src, size_t size);
 

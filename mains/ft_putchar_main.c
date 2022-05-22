@@ -1,19 +1,15 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   .ft_putchar_main.c                                 :+:      :+:    :+:   */
+/*   ft_putchar_main.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/10 22:44:01 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/10 23:11:02 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:07:25 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <stdio.h>
-#include <stdlib.h>
-#include <stddef.h>
-#include <unistd.h>
-#include <fcntl.h>
+#include "libft.h"
 
 void	ft_putchar_fd(char c, int fd);
 

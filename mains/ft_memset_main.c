@@ -1,18 +1,15 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   .ft_memset_main.c                                  :+:      :+:    :+:   */
+/*   ft_memset_main.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/05 16:19:00 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/05 17:20:29 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:07:21 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <string.h>
-#include <stdlib.h>
-#include <stddef.h>
-#include <stdio.h>
+#include "libft.h"
 
 void *ft_memset(void *s, int c, size_t n);
 

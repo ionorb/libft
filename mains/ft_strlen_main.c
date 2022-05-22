@@ -1,17 +1,15 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   .ft_strlen_main.c                                  :+:      :+:    :+:   */
+/*   ft_strlen_main.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/05 16:06:31 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/05 16:14:00 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:07:53 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <stdio.h>
-#include <string.h>
-#include <stddef.h>
+#include "libft.h"
 
 size_t ft_strlen(const char *s);
 

@@ -1,18 +1,15 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   .ft_memcpy_main.c                                  :+:      :+:    :+:   */
+/*   ft_memcpy_main.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/07 17:14:52 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/07 21:17:14 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:07:13 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <string.h>
-#include <stdio.h>
-#include <stddef.h>
-#include <stdlib.h>
+#include "libft.h"
 
 void *ft_memcpy(void *dest, void *src, size_t n);
 

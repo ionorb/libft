@@ -1,17 +1,15 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   .ft_strchr_main.c                                  :+:      :+:    :+:   */
+/*   ft_strchr_main.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/09 18:13:35 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/12 17:28:05 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:07:35 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <string.h>
-#include <stdio.h>
-#include <stdlib.h>
+#include "libft.h"
 
 char *ft_strchr(const char *s, int c);
 char *ft_strrchr(const char *s, int c);

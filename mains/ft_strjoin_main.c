@@ -1,17 +1,15 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   .ft_strjoin_main.c                                 :+:      :+:    :+:   */
+/*   ft_strjoin_main.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/10 16:05:41 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/10 16:08:21 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:07:44 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <stdio.h>
-#include <stddef.h>
-#include <stdlib.h>
+#include "libft.h"
 
 char	*ft_strjoin(char const *s1, char const *s2);
 

@@ -1,17 +1,15 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   .ft_toupper_main.c                                 :+:      :+:    :+:   */
+/*   ft_toupper_main.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/09 17:44:19 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/09 18:03:59 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:08:14 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <ctype.h>
-#include <stdio.h>
-#include <stdlib.h>
+#include "libft.h"
 
 int	ft_toupper(int c);
 int	ft_tolower(int c);

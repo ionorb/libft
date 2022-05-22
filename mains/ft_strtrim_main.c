@@ -1,17 +1,15 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   .ft_strtrim_main.c                                 :+:      :+:    :+:   */
+/*   ft_strtrim_main.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/10 16:26:32 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/10 16:33:32 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:08:08 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <stdio.h>
-#include <stddef.h>
-#include <stdlib.h>
+#include "libft.h"
 
 char	*ft_strtrim(char const *s1, char const *set);
 

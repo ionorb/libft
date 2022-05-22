@@ -1,18 +1,15 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   .ft_strncmp_main.c                                 :+:      :+:    :+:   */
+/*   ft_strncmp_main.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/09 20:10:31 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/09 20:24:28 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:08:01 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <stdio.h>
-#include <stdlib.h>
-#include <stddef.h>
-#include <string.h>
+#include "libft.h"
 
 int ft_strncmp(const char *s1, const char *s2, size_t n);
 

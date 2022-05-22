@@ -1,19 +1,15 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   .ft_strmapi_main.c                                 :+:      :+:    :+:   */
+/*   ft_strmapi_main.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/10 21:26:15 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/12 17:53:09 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:07:58 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <stdio.h>
-#include <stddef.h>
-#include <stdlib.h>
-#include <unistd.h>
-#include <string.h>
+#include "libft.h"
 
 char	*ft_strmapi(char const *s, char (*f)(unsigned int, char));
 

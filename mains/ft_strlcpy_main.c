@@ -1,18 +1,15 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   .ft_strlcpy_main.c                                 :+:      :+:    :+:   */
+/*   ft_strlcpy_main.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/09 14:18:00 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/12 16:59:45 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:07:50 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <stddef.h>
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
+#include "libft.h"
 
 size_t	ft_strlcpy(char *dst, const char *src, size_t size);
 

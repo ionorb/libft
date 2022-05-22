@@ -1,18 +1,15 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   .ft_memchr_main.c                                  :+:      :+:    :+:   */
+/*   ft_memchr_main.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/09 20:33:04 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/12 16:03:07 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:07:04 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <stddef.h>
+#include "libft.h"
 
 void	*ft_memchr(const void *s, int c, size_t n);
 
