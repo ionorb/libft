@@ -6,10 +6,10 @@
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/10 19:27:44 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/22 14:06:53 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:12:49 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../libft.h"
 
 char	*ft_itoa(int n);
 

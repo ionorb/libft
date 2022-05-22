@@ -6,10 +6,10 @@
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/14 14:19:43 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/14 14:27:39 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:20:19 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../libft.h"
 
 void	ft_putstr_fd(char *s, int fd)
 {

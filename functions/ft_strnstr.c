@@ -6,10 +6,10 @@
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/10 11:27:34 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/18 13:31:28 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:20:43 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../libft.h"
 
 char	*ft_strnstr(const char *big, const char *little, size_t len)
 {

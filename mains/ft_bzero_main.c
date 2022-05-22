@@ -6,10 +6,10 @@
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/06 15:36:57 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/22 14:02:58 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:12:29 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../libft.h"
 
 void bzero(void *s, size_t n);
 

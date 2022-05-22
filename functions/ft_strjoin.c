@@ -6,10 +6,10 @@
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/10 16:03:00 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/15 16:31:13 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:20:27 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../libft.h"
 
 char	*ft_strjoin(char const *s1, char const *s2)
 {

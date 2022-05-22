@@ -6,10 +6,10 @@
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/10 13:36:22 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/12 18:27:34 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:18:25 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../libft.h"
 
 int	ft_whitespace(char c)
 {

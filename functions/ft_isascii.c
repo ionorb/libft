@@ -6,10 +6,10 @@
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/05 15:52:08 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/07 19:41:34 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:19:06 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../libft.h"
 
 int	ft_isascii(int c)
 {

@@ -6,10 +6,10 @@
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/10 16:50:22 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/14 11:49:14 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:20:20 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../libft.h"
 
 int	ft_len(char const *s, char c)
 {

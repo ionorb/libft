@@ -6,10 +6,10 @@
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/10 16:26:09 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/19 11:54:24 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:20:50 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../libft.h"
 
 int	ft_inset(char c, char const *set)
 {
