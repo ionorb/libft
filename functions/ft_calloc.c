@@ -6,10 +6,10 @@
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/10 14:33:08 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/22 12:47:30 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:18:40 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../libft.h"
 
 void	*ft_calloc(size_t nmemb, size_t size)
 {

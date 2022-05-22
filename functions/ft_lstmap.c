@@ -6,10 +6,10 @@
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/17 15:34:00 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/19 15:02:26 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:19:30 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../libft.h"
 
 t_list	*ft_lstmap(t_list *lst, void *(*f)(void *), void (*del)(void *))
 {

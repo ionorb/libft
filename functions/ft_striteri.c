@@ -6,10 +6,10 @@
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/10 22:15:32 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/14 12:44:39 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:20:25 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../libft.h"
 
 void	ft_striteri(char *s, void (*f)(unsigned int, char*))
 {

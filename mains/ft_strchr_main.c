@@ -6,10 +6,10 @@
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/09 18:13:35 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/22 14:07:35 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:16:46 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../libft.h"
 
 char *ft_strchr(const char *s, int c);
 char *ft_strrchr(const char *s, int c);

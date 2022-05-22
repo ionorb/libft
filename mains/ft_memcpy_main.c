@@ -6,10 +6,10 @@
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/07 17:14:52 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/22 14:07:13 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:16:34 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../libft.h"
 
 void *ft_memcpy(void *dest, void *src, size_t n);
 

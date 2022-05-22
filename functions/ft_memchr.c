@@ -6,10 +6,10 @@
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/09 20:32:48 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/18 13:00:46 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:19:56 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../libft.h"
 
 void	*ft_memchr(const void *s, int c, size_t n)
 {

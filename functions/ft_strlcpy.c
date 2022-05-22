@@ -6,10 +6,10 @@
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/09 14:17:59 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/18 13:19:55 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:20:34 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../libft.h"
 
 size_t	ft_strlcpy(char *dst, const char *src, size_t size)
 {

@@ -6,10 +6,10 @@
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/05 16:00:40 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/22 14:06:49 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:12:47 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../libft.h"
 
 int ft_isprint(int c);
 

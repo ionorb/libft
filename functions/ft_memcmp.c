@@ -6,10 +6,10 @@
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/09 21:37:13 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/18 12:43:51 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:19:58 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../libft.h"
 
 int	ft_memcmp(const void *s1, const void *s2, size_t n)
 {

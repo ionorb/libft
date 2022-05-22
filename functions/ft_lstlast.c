@@ -6,10 +6,10 @@
 /*   By: yridgway <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/16 20:24:38 by yridgway          #+#    #+#             */
-/*   Updated: 2022/05/16 22:34:58 by yridgway         ###   ########.fr       */
+/*   Updated: 2022/05/22 14:19:28 by yridgway         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../libft.h"
 
 t_list	*ft_lstlast(t_list *lst)
 {
